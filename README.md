@@ -23,7 +23,6 @@ O objetivo desse projeto é aprofundar conhecimentos no desenvovilmento backend 
 
   - Node.js
   - Yarn
-  - SQLite
   - Insomnia ou Postman
 
 

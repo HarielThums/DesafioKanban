@@ -1,4 +1,4 @@
-# Desafio dos Cards
+# Desafio Kanban
 
 O objetivo desse projeto é aprofundar conhecimentos no desenvovilmento backend com Node.js e Typescript, juntamente com o SQLite.
 
